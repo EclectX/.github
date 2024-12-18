@@ -1,9 +1,9 @@
 # Welcome to EclectX GitHub! 🌟
 
 ## 🚀 About Us
-- **Computer Architecture Enthusiast** 🖥️  
-- **Embedded Systems Developer** 🔧  
-- **Wearable Healthcare Innovator** 💡  
+- **Computer Architecture** 🖥️  
+- **Embedded Systems** 🔧  
+- **Smart Healthcare** 💡  
 
 ## 🎯 Mission
 Creating **cross-disciplinary solutions** inspired by **diversity** and fueled by **excellence**!
